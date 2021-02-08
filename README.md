@@ -1,6 +1,6 @@
 # Marina-Group
 #### UMKM market place. E-commerce mobile app
-![marina-group](/img/marina0.jpg)
+![marina group](/img/marina0.jpg)
 ![marina-group](/img/marina1.jpg)
 ![marina-group](/img/marina2.jpg)
 ![marina-group](/img/marina3.jpg)
